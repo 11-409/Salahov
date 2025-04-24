@@ -1,0 +1,3 @@
+﻿using AlgoFloyd;
+
+Floyd.DoFloyd();
